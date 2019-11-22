@@ -1,0 +1,16 @@
+package ejercicioFibo;
+
+public class hiloFibo extends Thread{
+	
+	public void run(int N) {
+		
+		
+		
+		
+		
+	}
+	
+	public static void main(String [] args) {
+		
+	}
+}

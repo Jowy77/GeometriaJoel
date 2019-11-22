@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;my_TabPane&apos; in &apos;dad.fx.proyectoAED.PrincipalProyecto.start(...)&apos; to &apos;root_TabPane&apos;&#x0D;&#x0A;- Original project: &apos;ProyectoJavaFX.AED&apos;&#x0D;&#x0A;- Original element: &apos;dad.fx.proyectoAED.PrincipalProyecto.start(Stage).my_TabPane&apos;&#x0D;&#x0A;- Renamed element: &apos;my_TabPane&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;my_TabPane&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src\/main\/java&lt;dad.fx.proyectoAED{PrincipalProyecto.java[PrincipalProyecto~start~QStage;@my_TabPane!4268!4347!4276!4285!QTabPane;!0!false" name="root_TabPane" references="true" stamp="1571131617978" version="1.0"/>
+</session>

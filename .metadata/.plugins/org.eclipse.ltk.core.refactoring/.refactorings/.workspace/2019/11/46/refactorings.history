@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;Geometria-master&apos;" deleteContents="false" description="Delete resource &apos;Geometria-master&apos;" element1="/Geometria-master" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1573549863109"/>&#x0A;<refactoring comment="Rename resource &apos;ConexionDB-DavindFN&apos; to &apos;ConexionBD_AED_Joel&apos;" description="Rename resource &apos;ConexionDB-DavindFN&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/ConexionDB-DavindFN" name="ConexionBD_AED_Joel" stamp="1573638707560" updateReferences="true"/>
+</session>

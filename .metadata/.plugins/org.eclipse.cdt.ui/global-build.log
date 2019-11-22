@@ -1,0 +1,34 @@
+
+Invoking autoreconf in build directory: D:/Users/Alumno/eclipse-workspace/Ahbraham/
+
+
+Configuration failed with error
+(sh -c "autoreconf -i" 
+Cannot run program "sh": Launching failed
+
+Error: Program "sh" not found in PATH
+PATH=[C:/Program Files/AdoptOpenJDK/jdk-11.0.4.11-hotspot/bin/client;C:/Program Files/AdoptOpenJDK/jdk-11.0.4.11-hotspot/bin;C:\Program Files\AdoptOpenJDK\jdk-11.0.4.11-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\AdoptOpenJDK\jdk-12.0.1+12\bin;;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Java\jdk1.8.0_211\bin;D:\Users\Alumno\AppData\Local\Microsoft\WindowsApps;;C:\WINDOWS\system32;]
+)Build stopped
+()
+Invoking autoreconf in build directory: D:/Users/Alumno/eclipse-workspace/Abraham/
+
+
+Configuration failed with error
+(sh -c "autoreconf -i" 
+Cannot run program "sh": Launching failed
+
+Error: Program "sh" not found in PATH
+PATH=[C:/Program Files/AdoptOpenJDK/jdk-11.0.4.11-hotspot/bin/client;C:/Program Files/AdoptOpenJDK/jdk-11.0.4.11-hotspot/bin;C:\Program Files\AdoptOpenJDK\jdk-11.0.4.11-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\AdoptOpenJDK\jdk-12.0.1+12\bin;;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Java\jdk1.8.0_211\bin;D:\Users\Alumno\AppData\Local\Microsoft\WindowsApps;;C:\WINDOWS\system32;]
+)Build stopped
+()
+Invoking autoreconf in build directory: D:/Users/Alumno/eclipse-workspace/Abraham2/
+
+
+Configuration failed with error
+(sh -c "autoreconf -i" 
+Cannot run program "sh": Launching failed
+
+Error: Program "sh" not found in PATH
+PATH=[C:/Program Files/AdoptOpenJDK/jdk-11.0.4.11-hotspot/bin/client;C:/Program Files/AdoptOpenJDK/jdk-11.0.4.11-hotspot/bin;C:\Program Files\AdoptOpenJDK\jdk-11.0.4.11-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\AdoptOpenJDK\jdk-12.0.1+12\bin;;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Java\jdk1.8.0_211\bin;D:\Users\Alumno\AppData\Local\Microsoft\WindowsApps;;C:\WINDOWS\system32;]
+)Build stopped
+()

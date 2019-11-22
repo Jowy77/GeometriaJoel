@@ -1,0 +1,79 @@
+package dad.javafx.rectangulo;
+
+import javafx.geometry.HPos;
+import javafx.geometry.Pos;
+import javafx.scene.control.Label;
+import javafx.scene.control.TextField;
+import javafx.scene.layout.GridPane;
+import javafx.scene.paint.Color;
+import javafx.scene.shape.Rectangle;
+
+public class RectangleView extends GridPane {
+
+	private TextField anchoTexto, alturaTexto;
+	private Label areaTextoLabel, perimetroTextoLabel;
+	private Label anchoLabel, alturaLabel;
+	private Label areaLbl, perimeterLbl;
+	private Rectangle rectangleShape;
+	
+	public RectangleView() {
+		super();
+		
+		anchoLabel = new Label("Ancho:");
+		alturaLabel = new Label("Alto:");
+		
+		anchoTexto = new TextField();
+		anchoTexto.setPromptText("Ancho");
+		anchoTexto.setPrefColumnCount(5);
+		alturaTexto = new TextField();
+		alturaTexto.setPromptText("Alto");
+		alturaTexto.setPrefColumnCount(5);
+		
+		rectangleShape = new Rectangle();
+		rectangleShape.setWidth(80);
+		rectangleShape.setHeight(60);
+		rectangleShape.setFill(Color.rgb(0, 162, 232));
+		rectangleShape.setStrokeWidth(2);
+		rectangleShape.setStroke(Color.BLACK);
+		
+		areaLbl = new Label("Area:");
+		perimeterLbl = new Label("Perímetro:");
+		
+		areaTextoLabel = new Label();
+		perimetroTextoLabel = new Label();
+
+		addRow(0, anchoLabel, anchoTexto);
+		addRow(1, alturaLabel, alturaTexto);
+		addRow(2, rectangleShape);
+		
+		setColumnSpan(rectangleShape, 2);
+		setHalignment(rectangleShape, HPos.CENTER);
+		
+		addRow(3, areaLbl, areaTextoLabel);
+		addRow(4, perimeterLbl, perimetroTextoLabel);
+		
+		setAlignment(Pos.CENTER);
+		setHgap(15);
+		setVgap(5);
+	}
+
+	public TextField getWidthTxt() {
+		return anchoTexto;
+	}
+
+	public TextField getHeightTxt() {
+		return alturaTexto;
+	}
+
+	public Label getAreaTxt() {
+		return areaTextoLabel;
+	}
+
+	public Label getPerimeterTxt() {
+		return perimetroTextoLabel;
+	}
+
+	public Rectangle getRectangleShape() {
+		return rectangleShape;
+	}
+}

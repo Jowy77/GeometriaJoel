@@ -1,0 +1,13 @@
+1573207793919	Delete element
+1573218656985	Rename field 'sides'
+1573218672525	Rename field 'radius'
+1573218748671	Rename type 'Polyhedron'
+1573219408771	Rename method 'createPoints'
+1573219436117	Rename method 'sidesProperty'
+1573219874890	Rename local variable 'radius'
+1573219886972	Rename local variable 'sid'
+1573219898070	Rename local variable 'lado'
+1573220823529	Rename field 'height'
+1573221260948	Rename type 'Triangle'
+1573221603889	Rename method 'heightProperty'
+1573221673336	Rename package 'dad.javafx.shapes'

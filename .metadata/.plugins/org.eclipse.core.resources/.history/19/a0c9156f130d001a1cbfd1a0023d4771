@@ -1,0 +1,9 @@
+package hilosEjemplos;
+
+public class Ejemplo2 {
+
+	public Ejemplo2() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

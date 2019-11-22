@@ -1,0 +1,9 @@
+package ejercicioTicTac;
+
+public class Tac {
+
+	public Tac() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

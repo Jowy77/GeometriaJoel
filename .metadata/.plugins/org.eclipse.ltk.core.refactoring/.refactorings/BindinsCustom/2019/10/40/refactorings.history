@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;binding.Custom.SqrtBindings&apos; to &apos;SqrtBinding&apos;&#x0D;&#x0A;- Original project: &apos;BindinsCustom&apos;&#x0D;&#x0A;- Original element: &apos;binding.Custom.SqrtBindings&apos;&#x0D;&#x0A;- Renamed element: &apos;binding.Custom.SqrtBinding&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SqrtBindings&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;binding.Custom{SqrtBindings.java[SqrtBindings" matchStrategy="1" name="SqrtBinding" qualified="false" references="true" similarDeclarations="false" stamp="1570191352676" textual="false" version="1.0"/>
+</session>
